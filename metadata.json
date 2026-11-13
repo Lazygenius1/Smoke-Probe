@@ -1,0 +1,6 @@
+{
+  "name": "SmokeProbe — Web Smoke Testing Dashboard",
+  "description": "Automated multi-phase web smoke testing dashboard for HTTP health, DOM & asset audits, SEO/accessibility checks, and Python Streamlit + Playwright execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
